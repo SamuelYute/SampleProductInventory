@@ -1,0 +1,16 @@
+[
+    {
+        "prodID": 1,
+        "prodName": "Mangoe",
+        "prodPricePerItem": 76,
+        "prodQuantity": 12,
+        "dateSubmitted": "WedWed-AprApr-201820182018"
+    },
+    {
+        "prodID": 2,
+        "prodName": "Guava",
+        "prodPricePerItem": 2.5,
+        "prodQuantity": 4,
+        "dateSubmitted": "WedWed-AprApr-201820182018"
+    }
+]
